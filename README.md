@@ -11,6 +11,7 @@ I build software that runs close to hardware — from weather control systems se
 - ✈️ **Critical systems** — aviation weather software, naval defense systems, real-time CCTV.
 - 🧪 **Quality-focused** — unit testing, AddressSanitizer, Valgrind, CI pipelines.
 - 🎯 **Beyond code** — Scrum Master experience, DevOps (AWS), technical documentation.
+- 🤖 **AI-assisted development** — pioneer in adopting the team's AI tooling (Claude, Kiro, Amazon Q), even building a custom Kiro Power to speed up the whole team's work.
 
 ## Featured Project
 
@@ -31,7 +32,7 @@ A portable instrument for measuring end-to-end latency in real-time CCTV systems
 
 | Period | Role | Company | Domain |
 |--------|------|---------|--------|
-| 2023–present | C++ Developer & Scrum Master | **DTN** (Remote) | Aviation weather systems (MetConsole 3) |
+| 2023–present | C++ Developer, Scrum Master & AI tooling pioneer | **DTN** (Remote) | Aviation weather systems (MetConsole 2/3) |
 | 2022–2023 | C++ Developer | **Scalian** → BSH Group (Remote) | Home appliances firmware |
 | 2020–2022 | C++ Developer | **GTD Defense & Security** | Naval combat systems (Navantia) |
 | 2018–2020 | Research Collaborator | **University of Cádiz** | VR, parallel computing, autonomous drones (ROS) |
@@ -44,6 +45,7 @@ Frameworks:   Qt 6, Boost, MFC, ROS
 Tools:        Docker, CMake/qmake, GCC/Clang, GDB, Valgrind, ASan
 Platforms:    Linux (embedded/server), Windows, Raspberry Pi, ARM64
 DevOps:       AWS, Docker multi-arch, CI/CD, Git
+AI Tooling:   Claude, Kiro (custom Power authoring), Amazon Q
 Methods:      Scrum (certified SM), TDD, cross-compilation, i18n
 ```
 
